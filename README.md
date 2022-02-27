@@ -15,10 +15,10 @@ Let's meet "My Alexa" - The Next Generation of Smart Lighting System enabled thr
 
 ## Further Improvements
 
-This project can further be improved and applied to a real life scenario by integrating a relay circuit and a light bulb. <br>
-But be careful while handling electricity using relay circuit. Expert consultation is mandatory. <br>
-Please exercise caution while working with electricity. <br>
-
+* This project can further be improved and applied to a real life scenario by integrating a relay circuit and a light bulb. 
+* But be careful while handling electricity using relay circuit.
+* Please exercise caution while working with electricity.
+* Expert consultation is mandatory. 
 
 
 
