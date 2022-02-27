@@ -1,7 +1,7 @@
-# Smart Voice Controlled Lighting System using TinyML
+# Smart Voice Controlled Lighting System
 
 Imagine how cool would it be to turn on/turn off the lights in your room by uttering just a word!<br><br>
-Let's meet "My Alexa" - The Next Generation of Smart Lighting System enabled through TinyML.
+Let's meet "My Alexa" - The Next Generation of Smart Lighting System enabled
 
 ## Demo Video 
 
